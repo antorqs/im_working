@@ -1,8 +1,8 @@
 # im_working
 Python script to simulate you are working.
 
-Do you ever stand from your computer just to take a walk or drink coffee 
-and worry about anyone thinking you are procrastinating?
+Do you ever walk away from your computer just to take a walk or drink coffee 
+and worry about anyone (mis)thinking you are procrastinating?
 
 Never again. Run this script and let them think you are just waiting for something to finish :D
 
